@@ -164,11 +164,11 @@ h3 {
 .attribution {
     font-size: 0.688rem;
     text-align: center;
-    color: var(--very-dark-blackish-blue);
+    color: var(--dark-charcoal);
 }
 
 .attribution a {
-    color: var(--very-dark-grayish-blue);
+    color: var(--purple-grape);
 }
 
 /* Media queries */
