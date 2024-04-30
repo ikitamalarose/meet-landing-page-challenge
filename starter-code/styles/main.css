@@ -180,7 +180,7 @@ h3 {
         flex-direction: column;
         align-items: center;
         text-align: center;
-        padding-top: 2rem;
+        padding-top: 3rem;
     }
 
     /* CHAT */
@@ -192,7 +192,7 @@ h3 {
         width: 100%;
         display: grid;
         grid-template-rows: auto auto min-content;
-        gap: 2rem;
+        gap: 3.375rem;
         place-items: center;
         justify-content: center;
         overflow: hidden;
@@ -331,7 +331,7 @@ h3 {
         display: grid;
         grid-template-rows: auto auto min-content;
         place-items: center;
-        gap: 2rem;
+        gap: 4rem;
         justify-content: center;
         overflow: hidden;
         width: 100%;
@@ -460,7 +460,7 @@ h3 {
         align-items: center;
         text-align: center;
         overflow: hidden;
-        padding-top: 3rem;
+        padding-top: 5rem;
     }
 
     .chat__image-mobile {
@@ -477,7 +477,7 @@ h3 {
         grid-template-columns: repeat(3, auto);
         grid-template-rows: repeat(2, auto);
         place-items: center;
-        gap: 1rem;
+        gap: 3rem;
         overflow: hidden;
         width: 100%;
     }
