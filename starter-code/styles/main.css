@@ -161,6 +161,16 @@ h3 {
     align-items: center;
 }
 
+.attribution {
+    font-size: 0.688rem;
+    text-align: center;
+    color: var(--very-dark-blackish-blue);
+}
+
+.attribution a {
+    color: var(--very-dark-grayish-blue);
+}
+
 /* Media queries */
 
 /* mobile */
