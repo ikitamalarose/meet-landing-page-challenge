@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/ikitamalarose/meet-landing-page-challenge.git)
+- Live Site URL: [Add live site URL here](https://meet-landing-page-challenge-three.vercel.app/)
 
 ## My process
 
@@ -46,14 +46,10 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
+.experience__numerotation {
+        transform: translateX(-50%);
+    }
 ```
 
 ## Author
