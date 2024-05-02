@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ikitamalarose/meet-landing-page-challenge.git)
-- Live Site URL: [Add live site URL here](https://meet-landing-page-challenge-three.vercel.app/)
+- Solution URL: [GitHub solution](https://github.com/ikitamalarose/meet-landing-page-challenge.git)
+- Live Site URL: [Go to the site](https://meet-landing-page-challenge-three.vercel.app/)
 
 ## My process
 
